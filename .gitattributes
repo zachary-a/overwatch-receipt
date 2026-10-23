@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.png -text
+*.ttf -text
+*.jar -text
+*.zip -text
+*.apk -text

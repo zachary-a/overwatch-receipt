@@ -1,0 +1,36 @@
+# Local data, caches and generated artifacts
+/work/
+/output/
+**/local.properties
+**/.gradle/
+**/.kotlin/
+**/build/
+**/.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Credentials, signing keys, captures and personal data
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+*.pem
+*.key
+*.p12
+*.pfx
+*.log
+*.trace
+*.har
+*.pcap
+*.pcapng
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+*.apk
+*.aab
+*.apks
+*.zip
